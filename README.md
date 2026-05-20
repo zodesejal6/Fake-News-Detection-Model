@@ -196,3 +196,5 @@ This project is for educational purposes.
 
 **Note**: Make sure to train the model before running predictions. The model files are created in the `models/` directory after training.
 
+## Author
+- Sejal Zode
